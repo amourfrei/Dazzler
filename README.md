@@ -1,2 +1,2 @@
 # Dazzler
-🌿Javascript code snippet.
+🌴Javascript code snippet.
